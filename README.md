@@ -9,7 +9,7 @@ This project leverages a trained machine learning model to assess cardiovascular
 ## 🚀 Demo App
 
 Try the live demo application here:
-### [Heart Disease Risk Predictor - Live Demo](https://heartdiseasespredictionbykhoi.streamlit.app/)
+### [Heart Disease Risk Predictor - Live Demo]([https://heartdiseasespredictionbykhoi.streamlit.app/](https://heartdiseasespredictionbykhoi.streamlit.app/))
 
 Hosted on Streamlit Cloud for easy access without local installation.
 
