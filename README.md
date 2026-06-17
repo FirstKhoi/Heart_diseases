@@ -6,6 +6,13 @@ A machine learning-powered web application that predicts the 10-year risk of cor
 
 This project leverages a trained machine learning model to assess cardiovascular disease risk using key clinical parameters. The application provides an interactive interface built with Streamlit, making it accessible for healthcare professionals to quickly evaluate patient risk profiles.
 
+## 🚀 Demo App
+
+Try the live demo application here:
+### [Heart Disease Risk Predictor - Live Demo](https://heartdiseasespredictionbykhoi.streamlit.app/)
+
+Hosted on Streamlit Cloud for easy access without local installation.
+
 ## Features
 
 - 🎯 **10-Year CHD Risk Prediction** - Estimates the probability of coronary heart disease within 10 years
